@@ -123,6 +123,10 @@ header h1 {
     margin-right: .5rem;
 }
 
+.todo-item .title {
+    margin-left: 9px;   
+}
+
 .todo-item .title,
 .todo-item .textfield {
     margin-right: auto;
